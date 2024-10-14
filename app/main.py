@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from lib import tensor
+import tensor
 import time
 import json
 from pydantic import BaseModel
